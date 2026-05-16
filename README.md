@@ -80,9 +80,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kahlelhawary-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-theta-rouge-30.vercel.app/api?username=kahlelhawary-art&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&rank_icon=github" height="165" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kahlelhawary-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats-theta-rouge-30.vercel.app/api/top-langs/?username=kahlelhawary-art&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
