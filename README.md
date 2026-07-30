@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated gradient banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:2d2a55,100:414868&height=220&section=header&text=KHAi&fontSize=90&fontColor=c0caf5&fontAlignY=38&desc=Khalel%20Hawary%20%E2%80%94%20Halle%20(Saale),%20Germany&descAlignY=60&descSize=18&descColor=a9b1d6&animation=fadeIn" alt="KHAi Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:2d2a55,100:414868&height=220&section=header&text=KHW%20Studio&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Khalel%20Hawary%20%E2%80%94%20Halle%20(Saale),%20Germany&descAlignY=60&descSize=18&descColor=a9b1d6&animation=fadeIn" alt="KHW Studio Banner" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -18,7 +18,7 @@
 - **Based in** Halle (Saale), Germany
 - **Focused on** full-stack apps, AI agents, and developer tooling
 - **Always learning** — currently exploring multi-agent orchestration and LLM pipelines
-- **Portfolio:** [khai-studio.vercel.app](https://khai-studio.vercel.app)
+- **Portfolio:** [khw-studio.vercel.app](https://khw-studio.vercel.app)
 - **Contact:** [khaleelhw@gmail.com](mailto:khaleelhw@gmail.com)
 
 ---
@@ -70,7 +70,7 @@
 | **The Emerald Kingdom** | Full cinematic web experience — custom particle system rendering palace silhouette with cursor interaction, narrative preloader, custom cursor, themed AI concierge, five storytelling sections | ![Canvas](https://img.shields.io/badge/-Canvas2D-FF6B35?style=flat-square) ![Animation](https://img.shields.io/badge/-Animation-EF4444?style=flat-square) ![Storytelling](https://img.shields.io/badge/-Storytelling-D4A574?style=flat-square) | Private | Private |
 | **FlowAgent** | AI Agent Orchestration Framework — multi-agent pipelines with task routing and memory | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) | — | [kahlelhawary-art](https://github.com/kahlelhawary-art) |
 | **TaskFlow** | Full-stack task management app with auth, boards, and real-time updates | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PG-4169E1?style=flat-square&logo=postgresql&logoColor=white) | [Live](https://taskflow-frontend-ezbw.onrender.com) | [kahlelhawary-art](https://github.com/kahlelhawary-art) |
-| **Portfolio** | Cinematic developer portfolio with scroll-driven animations | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white) | [Live](https://khai-studio.vercel.app) | [kahlelhawary-art](https://github.com/kahlelhawary-art) |
+| **Portfolio** | Cinematic developer portfolio with scroll-driven animations | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TS-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white) | [Live](https://khw-studio.vercel.app) | [kahlelhawary-art](https://github.com/kahlelhawary-art) |
 | **King Barber** | Modern barbershop website with booking flow and gallery | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=black) | [Live](https://king-barbier.vercel.app) | [kahlelhawary-art](https://github.com/kahlelhawary-art) |
 | **CRM** | Customer Relationship Management system with contact tracking and pipeline | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PG-4169E1?style=flat-square&logo=postgresql&logoColor=white) | — | [kahlelhawary-art](https://github.com/kahlelhawary-art) |
 
@@ -100,7 +100,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-khaleelhw%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khaleelhw@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-khai--studio.vercel.app-7AA2F7?style=flat-square&logo=vercel&logoColor=white)](https://khai-studio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khw--studio.vercel.app-7AA2F7?style=flat-square&logo=vercel&logoColor=white)](https://khw-studio.vercel.app)
 
 </div>
 
