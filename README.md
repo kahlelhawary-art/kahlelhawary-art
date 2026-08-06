@@ -22,6 +22,7 @@ where [rtl-lint](https://www.npmjs.com/package/rtl-lint) came from.
 
 | Project | What it does | Built with | Links |
 |---------|--------------|------------|-------|
+| **rtl-mcp** | Published on npm — an MCP server that gives a coding agent right-to-left awareness: lint code for RTL breakage, normalise Arabic for search keys, detect script direction. Protocol layer written without the reference SDK's 17 dependencies, then verified against its client in CI | Node.js · MCP | [npm](https://www.npmjs.com/package/rtl-mcp) · [Code](https://github.com/kahlelhawary-art/rtl-mcp) |
 | **rtl-lint** | Published on npm — finds layout that breaks in Arabic and Hebrew: physical CSS properties, directional Tailwind utilities, missing `dir`, each with the logical fix. Zero dependencies, 17 tests | Node.js · CLI | [npm](https://www.npmjs.com/package/rtl-lint) · [Code](https://github.com/kahlelhawary-art/rtl-lint) |
 | **KHW Pharmacy — Desktop** | Pharmacy management suite for Windows, shipping at v0.1.7 — point of sale, FIFO inventory by expiry batch, reports, bilingual AR/EN, auto-update, and a licensing server | Electron · React · TypeScript · SQLite · Tailwind | [Download](https://github.com/kahlelhawary-art/KHW/releases/latest) |
 | **KHW Pharmacy — Mobile** | Offline-first Android companion — the full point of sale runs on-device with no server, plus barcode scanning, thermal printing, and JSON backup | Capacitor · React · TypeScript · Dexie · Tailwind | — |
