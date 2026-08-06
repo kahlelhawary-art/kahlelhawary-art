@@ -10,7 +10,8 @@ Full-stack developer building software that ships — a pharmacy management suit
 and Android, an autonomous job-application agent, and cinematic web experiences for real clients.
 
 Most of my work sits where AI meets the web: agent pipelines, LLM tooling, and interfaces that make
-both feel effortless. Everything I build is bilingual by default (AR/EN, often DE).
+both feel effortless. Everything I build is bilingual by default (AR/EN, often DE) — which is
+where [rtl-lint](https://www.npmjs.com/package/rtl-lint) came from.
 
 - **Focus** — full-stack products, AI agents, developer tooling
 - **Currently exploring** — multi-agent orchestration and LLM reliability
@@ -21,6 +22,7 @@ both feel effortless. Everything I build is bilingual by default (AR/EN, often D
 
 | Project | What it does | Built with | Links |
 |---------|--------------|------------|-------|
+| **rtl-lint** | Published on npm — finds layout that breaks in Arabic and Hebrew: physical CSS properties, directional Tailwind utilities, missing `dir`, each with the logical fix. Zero dependencies, 17 tests | Node.js · CLI | [npm](https://www.npmjs.com/package/rtl-lint) · [Code](https://github.com/kahlelhawary-art/rtl-lint) |
 | **KHW Pharmacy — Desktop** | Pharmacy management suite for Windows, shipping at v0.1.7 — point of sale, FIFO inventory by expiry batch, reports, bilingual AR/EN, auto-update, and a licensing server | Electron · React · TypeScript · SQLite · Tailwind | [Download](https://github.com/kahlelhawary-art/KHW/releases/latest) |
 | **KHW Pharmacy — Mobile** | Offline-first Android companion — the full point of sale runs on-device with no server, plus barcode scanning, thermal printing, and JSON backup | Capacitor · React · TypeScript · Dexie · Tailwind | — |
 | **Sore Care** | Management system for a German home-care company | React · Vite · Supabase | [Live](https://sore-care.vercel.app) |
