@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:2d2a55,100:414868&height=220&section=header&text=KHW%20Studio&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Khalel%20Hawary%20%E2%80%94%20Halle%20(Saale),%20Germany&descAlignY=60&descSize=18&descColor=a9b1d6&animation=fadeIn" alt="KHW Studio Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:2d2a55,100:414868&height=220&section=header&text=KHW%20Studio&fontSize=60&fontColor=c0caf5&fontAlignY=45&animation=fadeIn" alt="KHW Studio Banner" width="100%"/>
 
 </div>
 
