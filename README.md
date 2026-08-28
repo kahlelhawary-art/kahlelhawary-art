@@ -7,7 +7,8 @@
 ## About
 
 Full-stack developer building software that ships — a pharmacy management suite running on Windows
-and Android, an autonomous job-application agent, and cinematic web experiences for real clients.
+and Android, an autonomous job-application agent, and a management system a German home-care
+business runs every day.
 
 Most of my work sits where AI meets the web: agent pipelines, LLM tooling, and interfaces that make
 both feel effortless. Everything I build is bilingual by default (AR/EN, often DE) — which is
