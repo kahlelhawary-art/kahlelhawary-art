@@ -33,10 +33,8 @@ where [rtl-lint](https://www.npmjs.com/package/rtl-lint) came from.
 | **CareerAgent** | Autonomous job-application system — scrapes StepStone and Indeed Germany, tailors CV and cover letter with AI, then applies by email | FastAPI · SQLModel · OpenAI · React · TypeScript | — |
 | **PhD Match DE** | Matches candidates to open PhD positions in German life-sciences programs — AI matching, PDF parsing, trilingual DE/EN/AR | React · Supabase · Tailwind · PDF.js | [Live](https://phd-match-de.vercel.app) · [Code](https://github.com/kahlelhawary-art/phd-match-de) |
 | **FlowAgent** | Published on PyPI — AI agent orchestration framework with automatic parallelisation of independent steps, a built-in RAG engine, and a runtime plugin system | Python · TypeScript · Go | [PyPI](https://pypi.org/project/flowagent-framework/) · [Code](https://github.com/kahlelhawary-art/FlowAgent) |
-| **Veg Lab** | Android app for round-pattern analysis — Markov sequence models, prediction accuracy measured honestly, and an expected-value check on whether a winning bet exists at all | Capacitor · Android · JavaScript | — |
 | **Nuqoosh** | Cinematic personalized poem pages as a keepsake gift — trilingual AR/EN/DE with scroll-reveal typography | JavaScript · Canvas · HTML5 | [Live](https://nuqoosh.vercel.app) · [Code](https://github.com/kahlelhawary-art/nuqoosh) |
 | **TaskFlow** | Full-stack task management app with auth, boards, and real-time updates | React · FastAPI · PostgreSQL | [Live](https://taskflow-frontend-ezbw.onrender.com) · [Code](https://github.com/kahlelhawary-art/TaskFlow) |
-| **Portfolio** | Cinematic developer portfolio with scroll-driven animations | React · TypeScript · Framer Motion | [Live](https://khw-studio.vercel.app) · [Code](https://github.com/kahlelhawary-art/Portfolio) |
 | **King Barber** | Barbershop website with booking flow and gallery | React · Tailwind | [Live](https://king-barbier.vercel.app) |
 
 ## Tech Stack
