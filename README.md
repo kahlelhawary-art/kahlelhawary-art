@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cinema/cinematic-poster.png" />
-  <img src="./assets/cinema/cinematic-hero.webp" width="100%" alt="KHW Studio — a cinematic Blender scene with metallic lettering, illuminated arches, and a slow camera orbit" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cinema/cinematic-objects-poster-v2.png" />
+  <img src="./assets/cinema/cinematic-objects-v2.webp" width="100%" alt="KHW Studio — a cinematic Blender scene with metallic lettering, illuminated arches, independently rotating cubes, orbiting lights, and moving metallic reflections" />
 </picture>
 
 <br/>
