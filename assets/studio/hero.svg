@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">KHW Studio — AI-assisted application development</title>
+<desc id="desc">Dark navy studio banner with turquoise and lavender orbital lines around a geometric cube. Web, desktop, mobile.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080e1b"/><stop offset="1" stop-color="#15213b"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#56e6d2"/><stop offset="1" stop-color="#a99bff"/></linearGradient>
+<linearGradient id="glass" x2=".8" y2="1"><stop stop-color="#56e6d2" stop-opacity=".16"/><stop offset="1" stop-color="#a99bff" stop-opacity=".05"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#7261d8" stop-opacity=".25"/><stop offset="1" stop-color="#7261d8" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#92a9ce" stroke-opacity=".055"/></pattern>
+</defs>
+<style>
+.orbit{transform-origin:945px 197px;animation:orbit 28s linear infinite}
+.reverse{animation-direction:reverse;animation-duration:38s}
+.float{animation:float 6s ease-in-out infinite}
+.pulse{animation:pulse 5s ease-in-out infinite}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.orbit,.float,.pulse{animation:none}}
+</style>
+<rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="24" fill="url(#grid)"/>
+<circle cx="960" cy="190" r="245" fill="url(#halo)"/>
+<rect x="1" y="1" width="1198" height="398" rx="23" fill="none" stroke="#2a3751"/>
+<rect x="52" y="53" width="28" height="3" rx="1.5" fill="#56e6d2"/>
+<text x="94" y="60" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#a7b7d0">INDEPENDENT DIGITAL STUDIO</text>
+<text x="49" y="167" font-family="Arial,sans-serif" font-size="79" font-weight="700" letter-spacing="-3" fill="#f1f5ff">KHW<tspan dx="14" fill="#9fafff">Studio</tspan></text>
+<text x="54" y="215" font-family="Arial,sans-serif" font-size="24" fill="#d0d9ea">AI-assisted application development</text>
+<text x="54" y="252" font-family="Arial,sans-serif" font-size="17" fill="#95a7c2">Business applications. Arabic interfaces. AI tools.</text>
+<g font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#c6d2e7">
+<rect x="54" y="297" width="98" height="35" rx="17" fill="#18263b" stroke="#33425c"/><text x="81" y="319">WEB</text>
+<rect x="165" y="297" width="130" height="35" rx="17" fill="#18263b" stroke="#33425c"/><text x="187" y="319">DESKTOP</text>
+<rect x="308" y="297" width="120" height="35" rx="17" fill="#18263b" stroke="#33425c"/><text x="331" y="319">MOBILE</text>
+</g>
+<g fill="none"><circle cx="945" cy="197" r="151" stroke="#273956"/><circle cx="945" cy="197" r="118" stroke="#273956" stroke-dasharray="2 12"/>
+<g class="orbit"><ellipse cx="945" cy="197" rx="174" ry="89" stroke="#56e6d2" stroke-opacity=".45"/><circle cx="1119" cy="197" r="5" fill="#56e6d2" stroke="#a9fff2"/></g>
+<g class="orbit reverse"><ellipse cx="945" cy="197" rx="155" ry="110" stroke="#a99bff" stroke-opacity=".5" transform="rotate(65 945 197)"/><circle cx="1010.5" cy="337.5" r="4" fill="#bdadff"/></g></g>
+<g class="float" stroke="url(#accent)" stroke-width="1.5" stroke-linejoin="round">
+<path d="M945 118 1014 158 945 199 876 158Z" fill="#263a55"/>
+<path d="M876 158 945 199 945 280 876 239Z" fill="url(#glass)"/>
+<path d="M945 199 1014 158 1014 239 945 280Z" fill="#1c2948"/>
+<path d="M945 143 990 169 945 196 900 169Z" fill="none" stroke-opacity=".35"/>
+</g>
+<circle class="pulse" cx="945" cy="197" r="5" fill="#9df5e7"/>
+<path d="M54 367H1146" stroke="url(#accent)" stroke-opacity=".5"/>
+</svg>
