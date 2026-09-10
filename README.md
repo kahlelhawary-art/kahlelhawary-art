@@ -53,6 +53,7 @@ Explore the live experiences, published tools, and project details below.
 </tr>
 <tr>
 <td valign="top" width="100%" colspan="2">
+<img src="./assets/cinema/mobile-art.webp" width="100%" alt="Conceptual 3D illustration for KHW Pharmacy — Mobile; not an application screenshot" />
 <h3>KHW Pharmacy — Mobile</h3>
 <p>An offline Android companion with point of sale, barcode scanning, and thermal printing.</p>
 <p><strong>Built with:</strong> Capacitor · React · TypeScript · Dexie · Tailwind</p>
@@ -81,6 +82,7 @@ Explore the live experiences, published tools, and project details below.
 </details>
 </td>
 <td valign="top" width="50%">
+<img src="./assets/cinema/mcp-art.webp" width="100%" alt="Conceptual 3D illustration for rtl-mcp; not an application screenshot" />
 <h3>rtl-mcp</h3>
 <p>Bring Arabic text and right-to-left interface tools into coding-agent workflows.</p>
 <p><strong>Built with:</strong> Node.js · MCP</p>
@@ -92,6 +94,7 @@ Explore the live experiences, published tools, and project details below.
 </tr>
 <tr>
 <td valign="top" width="50%">
+<img src="./assets/cinema/starter-art.webp" width="100%" alt="Conceptual 3D illustration for electron-capacitor-starter; not an application screenshot" />
 <h3>electron-capacitor-starter</h3>
 <p>One React foundation for web, Windows, and Android applications.</p>
 <p><strong>Built with:</strong> Electron · Capacitor · React · TypeScript · SQLite</p>
@@ -101,6 +104,7 @@ Explore the live experiences, published tools, and project details below.
 </details>
 </td>
 <td valign="top" width="50%">
+<img src="./assets/cinema/flowagent-art.webp" width="100%" alt="Conceptual 3D illustration for FlowAgent; not an application screenshot" />
 <h3>FlowAgent</h3>
 <p>An AI agent orchestration framework with RAG and runtime plugins.</p>
 <p><strong>Built with:</strong> Python · TypeScript · Go</p>
@@ -119,6 +123,7 @@ Explore the live experiences, published tools, and project details below.
 <table>
 <tr>
 <td valign="top" width="50%">
+<img src="./assets/cinema/phd-art.webp" width="100%" alt="Conceptual 3D illustration for PhD Match DE; not an application screenshot" />
 <h3>PhD Match DE</h3>
 <p>Match candidate profiles to German life-science PhD positions.</p>
 <p><strong>Built with:</strong> React · Supabase · Tailwind · PDF.js</p>
@@ -128,6 +133,7 @@ Explore the live experiences, published tools, and project details below.
 </details>
 </td>
 <td valign="top" width="50%">
+<img src="./assets/cinema/taskflow-art.webp" width="100%" alt="Conceptual 3D illustration for TaskFlow; not an application screenshot" />
 <h3>TaskFlow</h3>
 <p>Task management with authentication, boards, and real-time updates.</p>
 <p><strong>Built with:</strong> React · FastAPI · PostgreSQL</p>
@@ -139,6 +145,7 @@ Explore the live experiences, published tools, and project details below.
 </tr>
 <tr>
 <td valign="top" width="50%">
+<img src="./assets/cinema/career-art.webp" width="100%" alt="Conceptual 3D illustration for CareerAgent; not an application screenshot" />
 <h3>CareerAgent</h3>
 <p>An AI-assisted workflow for job discovery and application preparation.</p>
 <p><strong>Built with:</strong> FastAPI · SQLModel · OpenAI · React · TypeScript</p>
@@ -148,6 +155,7 @@ Explore the live experiences, published tools, and project details below.
 </details>
 </td>
 <td valign="top" width="50%">
+<img src="./assets/cinema/nuqoosh-art.webp" width="100%" alt="Conceptual 3D illustration for Nuqoosh; not an application screenshot" />
 <h3>Nuqoosh</h3>
 <p>Personalized, multilingual poem pages with cinematic typography.</p>
 <p><strong>Built with:</strong> JavaScript · Canvas · HTML5</p>
@@ -159,6 +167,7 @@ Explore the live experiences, published tools, and project details below.
 </tr>
 <tr>
 <td valign="top" width="100%" colspan="2">
+<img src="./assets/cinema/barber-art.webp" width="100%" alt="Conceptual 3D illustration for King Barber; not an application screenshot" />
 <h3>King Barber</h3>
 <p>A responsive barbershop website and gallery.</p>
 <p><strong>Built with:</strong> React · Tailwind</p>
@@ -177,6 +186,7 @@ Explore the live experiences, published tools, and project details below.
 <table>
 <tr>
 <td valign="top" width="100%" colspan="2">
+<img src="./assets/cinema/offline-art.webp" width="100%" alt="Conceptual 3D illustration for Offline Developer Playbook; not an application screenshot" />
 <h3>Offline Developer Playbook</h3>
 <p>A practical guide to working with development tools without internet access.</p>
 <p><strong>Built with:</strong> PowerShell · Bash · Docs</p>
