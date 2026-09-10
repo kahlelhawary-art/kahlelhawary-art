@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./assets/studio/hero.svg" width="100%" alt="KHW Studio — AI-assisted application development for web, desktop, and mobile" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cinema/cinematic-poster.png" />
+  <img src="./assets/cinema/cinematic-hero.webp" width="100%" alt="KHW Studio — a cinematic Blender scene with metallic lettering, illuminated arches, and a slow camera orbit" />
+</picture>
 
 <br/>
 
@@ -8,26 +11,27 @@
 
 <br/><br/>
 
-<code>AI-ASSISTED DEVELOPMENT</code> &nbsp; <code>MULTILINGUAL INTERFACES</code> &nbsp; <code>WEB · DESKTOP · MOBILE</code>
+**APPLICATIONS** &nbsp; / &nbsp; **INTERFACES** &nbsp; / &nbsp; **INTELLIGENCE**
 
 </div>
 
 <br/>
 
-## Built around practical problems
+## Applications with a purpose
 
 This portfolio brings together business applications, developer tools, and creative web projects built with AI-assisted workflows. The work spans pharmacy management, service-business administration, multilingual interfaces, and AI agent tooling.
 
-The projects below link to source code, published packages, or live demonstrations where available. Private deployments are identified explicitly. Technologies describe the tools used in each project.
+Explore the live experiences, published tools, and project details below.
 
 
 <br/>
 
-<img src="./assets/studio/products.svg" width="100%" alt="01 Business applications" />
+<img src="./assets/cinema/chapter-1.png" width="100%" alt="01 Business applications" />
 
 <table>
 <tr>
 <td valign="top" width="50%">
+<img src="./assets/cinema/care-art.webp" width="100%" alt="Conceptual 3D illustration for Sore Care; not an application screenshot" />
 <h3>Sore Care</h3>
 <p>Client records, scheduling, service documentation, and invoicing for a German care business.</p>
 <p><strong>Built with:</strong> React · Vite · Supabase</p>
@@ -37,6 +41,7 @@ The projects below link to source code, published packages, or live demonstratio
 </details>
 </td>
 <td valign="top" width="50%">
+<img src="./assets/cinema/pharmacy-art.webp" width="100%" alt="Conceptual 3D illustration for KHW Pharmacy — Desktop; not an application screenshot" />
 <h3>KHW Pharmacy — Desktop</h3>
 <p>A Windows pharmacy application with point of sale, inventory, reports, and licensing.</p>
 <p><strong>Built with:</strong> Electron · React · TypeScript · SQLite · Tailwind</p>
@@ -61,11 +66,12 @@ The projects below link to source code, published packages, or live demonstratio
 
 <br/>
 
-<img src="./assets/studio/tools.svg" width="100%" alt="02 Developer tools and AI frameworks" />
+<img src="./assets/cinema/chapter-2.png" width="100%" alt="02 Developer tools and AI frameworks" />
 
 <table>
 <tr>
 <td valign="top" width="50%">
+<img src="./assets/cinema/tools-art.webp" width="100%" alt="Conceptual 3D illustration for rtl-lint; not an application screenshot" />
 <h3>rtl-lint</h3>
 <p>Find CSS and Tailwind patterns that break right-to-left layouts.</p>
 <p><strong>Built with:</strong> Node.js · CLI</p>
@@ -108,7 +114,7 @@ The projects below link to source code, published packages, or live demonstratio
 
 <br/>
 
-<img src="./assets/studio/experiences.svg" width="100%" alt="03 Web experiences" />
+<img src="./assets/cinema/chapter-3.png" width="100%" alt="03 Web experiences" />
 
 <table>
 <tr>
@@ -166,7 +172,7 @@ The projects below link to source code, published packages, or live demonstratio
 
 <br/>
 
-<img src="./assets/studio/resources.svg" width="100%" alt="04 Resources" />
+<img src="./assets/cinema/chapter-4.png" width="100%" alt="04 Resources" />
 
 <table>
 <tr>
