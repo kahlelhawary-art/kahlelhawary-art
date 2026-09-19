@@ -16,7 +16,7 @@ where [rtl-lint](https://www.npmjs.com/package/rtl-lint) came from.
 
 - **Focus** — full-stack products, AI agents, developer tooling
 - **Currently exploring** — multi-agent orchestration and LLM reliability
-- **Portfolio** — [khw-studio.vercel.app](https://khw-studio.vercel.app)
+- **Portfolio** — [khw-studio.com](https://khw-studio.com)
 - **Contact** — [khaleelhw@gmail.com](mailto:khaleelhw@gmail.com)
 
 ## Selected Work
@@ -94,7 +94,7 @@ where [rtl-lint](https://www.npmjs.com/package/rtl-lint) came from.
 
 [![Email](https://img.shields.io/badge/Email-khaleelhw%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khaleelhw@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-khw--studio.vercel.app-7AA2F7?style=flat-square&logo=vercel&logoColor=white)](https://khw-studio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khw--studio.com-7AA2F7?style=flat-square&logo=vercel&logoColor=white)](https://khw-studio.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-kahlelhawary--art-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kahlelhawary-art)
 
